@@ -8,3 +8,5 @@ simple instruction set architecture (ISA). Additional features include SSD displ
 performance monitoring.
 This implementation demonstrates expertise in hardware design and digital logic, with a focus on real-
 time processing and control.
+
+https://linus5.blogspot.com/p/design-of-32bit-risc-pocessor-design-of.html
